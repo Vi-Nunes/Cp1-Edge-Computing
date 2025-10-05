@@ -185,7 +185,7 @@ void loop(){
 Link da simulação  
 📺 [https://youtu.be/WBVNmwh5Pak](https://youtu.be/WBVNmwh5Pak)
 
-## 5. Autor
+## 5. Autores
 
 - Victor Nunes Braz
 - Roger Paiva
