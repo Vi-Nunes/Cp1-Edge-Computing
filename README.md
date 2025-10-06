@@ -1,6 +1,6 @@
 # Cp1 - Edge Computing
 
-## 1. Descrição
+## Descrição
 
 Este é o projeto da cp1 - Edge Computing, caso Vinheria Agnello. Nesse projeto a luminosidade do ambiente é captada a partir de um sensor LDR/Fotoressistor e interpretada para auxiliar no armazénamento de vinhos, onde temos 3 níveis possíveis:
 1. Verde- Onde a luminosidade do ambiente é ideal para o armazénamento
@@ -185,9 +185,9 @@ void loop(){
 Link da simulação  
 📺 [https://youtu.be/WBVNmwh5Pak](https://youtu.be/WBVNmwh5Pak)
 
-## 5. Autores
+## Autores
 
 - Victor Nunes Braz
-- Roger Paiva
+- Roger De Carvalho Paiva
 - Guilherme Segolin de Oliveira Mendes
-- Pedro Henrique Olímpio
+- Pedro Henrique Olímpio Siqueira
